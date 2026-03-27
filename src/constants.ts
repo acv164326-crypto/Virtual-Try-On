@@ -26,14 +26,6 @@ export const PRODUCTS: Product[] = [
     price: 199,
   },
   {
-    id: '4',
-    name: 'Wayfarer Frames',
-    category: 'glasses',
-    image: 'https://images.unsplash.com/photo-1511499767390-903390e62bc0?auto=format&fit=crop&q=80&w=800',
-    description: 'Modern black wayfarer frames.',
-    price: 149,
-  },
-  {
     id: '5',
     name: 'Graphic Tee',
     category: 'clothes',
